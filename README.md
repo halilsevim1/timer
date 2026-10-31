@@ -11,7 +11,7 @@ Kısa bir hareket ve dinlenme molası vermek için zamanlayıcıyı başlatın, 
 
 ## İndir
 
-[Son sürümü indir (Windows)](https://github.com/halilsevim1/timer/releases/latest/download/ZamanAsistani_v2.exe)
+[Son sürümü indir (Windows)](https://github.com/halilsevim1/timer/releases/latest/download/ZamanAsistani.exe)
 
 ## Kullanım
 
@@ -23,7 +23,7 @@ Kısa bir hareket ve dinlenme molası vermek için zamanlayıcıyı başlatın, 
 
 ## Dağıtım
 
-Bu depo uygulama kaynak kodunu içermez; yalnızca sürüm bilgilerini ve kullanım açıklamasını barındırır. Windows uygulaması, GitHub Releases bölümünde `ZamanAsistani_v2.exe` adıyla dağıtılır.
+Bu depo uygulama kaynak kodunu içermez; yalnızca sürüm bilgilerini ve kullanım açıklamasını barındırır. Windows uygulaması, GitHub Releases bölümünde `ZamanAsistani.exe` adıyla dağıtılır.
 
 **Sürüm:** 1.0.0  
 **Geliştirici:** Halil Sevim  
